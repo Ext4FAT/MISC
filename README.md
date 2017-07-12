@@ -37,10 +37,6 @@
 │   │   └── 06.md.pdf</br>
 │   └── PaperNote</br>
 │       └── SVM and CV.pdf</br>
-├── MyResume</br>
-│   ├── Resume.pdf</br>
-│   ├── leetcode.md.pdf</br>
-│   └── 剑指offer.pdf</br>
 ├── MyTrick</br>
 │   ├── 8 Ways to Become a Better Coder.pdf</br>
 │   ├── ArchLinux</br>
@@ -134,6 +130,7 @@
 │   ├── OpenCV.pdf</br>
 │   ├── Person.pdf</br>
 │   └── Technique.pdf</br>
+├── README.m</br>
 ├── README.md</br>
 ├── Recommend</br>
 │   ├── Concept</br>
